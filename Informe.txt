@@ -1,1 +1,0 @@
-en la clase pasada vimos como crear un archivo con git
